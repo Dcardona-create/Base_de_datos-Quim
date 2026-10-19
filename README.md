@@ -6,7 +6,7 @@ Prácticas y proyectos de bases de datos: SQL, MariaDB, procedimientos almacenad
 
 | Actividad | Módulo | Tema | Enlace |
 |---|---|---|---|
-| ACT5 | Servicios de red | Instalación y configuración de OpenLDAP | [Ver práctica](https://github.com/Dcardona-create/DNS/tree/main/ACT5-openldap) |
+| ACT5 | Servicios de red | Instalación y configuración de OpenLDAP | [Ver práctica](https://github.com/Dcardona-create/ACTIVIDADES-GSll/tree/main/ACT5-openldap) |
 
 ## Autor
 
